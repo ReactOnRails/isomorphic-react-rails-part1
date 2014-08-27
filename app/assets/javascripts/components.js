@@ -1,3 +1,2 @@
-// Tell react-rails were our components are
-
+// Tell react-rails where our components are
 //= require_tree ./components
