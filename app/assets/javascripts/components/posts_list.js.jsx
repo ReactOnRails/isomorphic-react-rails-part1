@@ -1,5 +1,3 @@
-/** @jsx React.DOM **/
-
 var PostsList = React.createClass({
     getInitialState: function() {
         return { posts: this.props.initialPosts };

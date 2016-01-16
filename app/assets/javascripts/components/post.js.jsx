@@ -1,5 +1,3 @@
-/** @jsx React.DOM **/
-
 var Post = React.createClass({
     render: function() {
         return (
